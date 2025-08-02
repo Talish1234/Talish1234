@@ -70,7 +70,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/talish1234/](https://www.linkedin.com/in/mohd-talish-ansari-a8a05b234))
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:talishtarik1234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://your-portfolio-link.com) <!-- Add your actual portfolio URL -->
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)]((https://portfolio-self-xi-30.vercel.app/) <!-- Add your actual portfolio URL -->
 
 ---
 
