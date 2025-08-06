@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Backend Intern @ **To Let Global**
-- 🌱 Currently learning **Vue.js** and advanced **System Design**
+- 💼 Ex Backend Intern @ **To Let Global**
+- 🌱 Currently learning **Vue.js**
 - 👨‍🎓 B.Tech CSE @ ADGITM, Delhi — CGPA: 9.23
 - 🧠 Strong in **Data Structures, Algorithms & Problem Solving**
 - ✍️ Loves: Playing Chess ♟️ | Puzzle Solving 🧩
