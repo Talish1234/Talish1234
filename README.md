@@ -49,7 +49,7 @@
 
 ### 🔥 Projects Highlight
 
-
+- **💬 [Chatter Bird](https://chatter-bird-zeta.vercel.app/)** - Real-Time Chat & Video Calling App
 - **📝 [BlogBytes](https://blogbytes-conq.onrender.com/)** – Full-featured blog platform (MERN + Markdown + Auth)
 - **🏡 [Property Pulse](https://real-estate-frontend-woad.vercel.app/)** – Real Estate Web App with real-time chat, image slider, and more
 - **🌍 [Natours](https://natours-rdja.onrender.com/)** – Advanced travel booking app using Node.js, Express, MongoDB, and Stripe for payments
